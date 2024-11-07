@@ -7,3 +7,7 @@
 ## P站风格图片生成
 
 简单P站风格图片生成，支持颜色调整和图片卸载，项目：[logoly](https://github.com/bestony/logoly)。
+
+## ChatGPT-Next-Web
+
+人人都可以拥有自己的chatGPT助手，项目: [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)。

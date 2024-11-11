@@ -11,3 +11,7 @@
 ## ChatGPT-Next-Web
 
 人人都可以拥有自己的chatGPT助手，项目: [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)。
+
+## newsnow
+
+优雅地阅读实时热门新闻，项目：[newsnow](https://github.com/ourongxing/newsnow)。

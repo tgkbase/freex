@@ -16,5 +16,5 @@
 
 优雅地阅读实时热门新闻，项目：[newsnow](https://github.com/ourongxing/newsnow)。
 
-## 开源导航
-基于github pages搭建一个自己的导航页：[https://github.com/shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)。
+## 开源导航WebStack-Hugo
+基于github pages搭建一个自己的导航页：[WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)。

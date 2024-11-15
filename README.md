@@ -23,3 +23,7 @@
 ## 在线电子印章
 
 在线生成电子印章，自带做旧效果，项目：[drawstamputils](https://github.com/xxss0903/drawstamputils)。
+
+## 在线水印
+
+纯前端加水印，项目：[watermark](https://github.com/dxcweb/watermark)。

@@ -27,3 +27,7 @@
 ## 在线水印
 
 纯前端加水印，项目：[watermark](https://github.com/dxcweb/watermark)。
+
+## 情侣飞行棋&情侣姿势卡牌
+
+开源项目，情侣飞行棋升级版，项目地址：[17fei](https://love.jiaohuazi.net/)。

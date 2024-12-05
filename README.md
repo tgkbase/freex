@@ -31,3 +31,7 @@
 ## 情侣飞行棋&情侣姿势卡牌
 
 开源项目，情侣飞行棋升级版，项目地址：[17fei](https://love.jiaohuazi.net/)。
+
+## IOPaint在线一键去背景
+
+项目地址：[https://github.com/Sanster/IOPaint](https://github.com/Sanster/IOPaint)

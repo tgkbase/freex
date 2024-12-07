@@ -37,6 +37,10 @@
 项目地址：[https://github.com/Sanster/IOPaint](https://github.com/Sanster/IOPaint)
 
 
-## 在线屏幕共享
+## screen-sharing 在线屏幕共享
 
 无需登录、安装，在线屏幕共享：[screen-sharing](https://github.com/tonghohin/screen-sharing)
+
+## screen-guru 屏幕截图
+
+开源网页截图工具，输入网址，自动截屏：[screen-guru](https://github.com/premieroctet/screen-guru)。

@@ -44,3 +44,7 @@
 ## screen-guru 屏幕截图
 
 开源网页截图工具，输入网址，自动截屏：[screen-guru](https://github.com/premieroctet/screen-guru)。
+
+## GitHub 文件加速
+
+GitHub文件大陆加速，自行搭建：[gh-proxy](https://github.com/hunshcn/gh-proxy)。
